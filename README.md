@@ -24,10 +24,10 @@ I am a video game lover who enjoys exploring every corner of the computer scienc
 
 ## 🚀 Projects & Competitions
 
-### [Ruta Damm (Interhack BCN)](https://github.com/IbrA-kml) 🏆 Winner: MLH Best MongoDB Implementation
+### [Ruta Damm (Interhack BCN)](https://github.com/mtorregrosadev/Ruta-Damm_InterHack-2026) 🏆 Winner: MLH Best MongoDB Implementation
 Developed a logistics and transport optimization platform for a brewery brand. Designed a dynamic graph route animation and an interactive 3D cargo visualizer using frontend technologies to improve daily operations. `React` `MongoDB` `3D Graphics`
 
-### [AB Data Challenge 2025](https://github.com/IbrA-kml)
+### [AB Data Challenge 2025](https://github.com/mtorregrosadev/Ab-Data-Challenge-2025)
 Developed a smart water-monitoring application designed to track daily household water consumption. Implemented predictive features to analyze usage trends and integrated an automated alert system to detect potential leaks. `JavaScript` `Data Visualization`
 
 ### [Smart Parking Assistant & Robotics](https://github.com/IbrA-kml)
