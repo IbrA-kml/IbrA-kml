@@ -7,8 +7,6 @@ I am a video game lover who enjoys exploring every corner of the computer scienc
 
 ## About me
 
-## About me
-
 ⚛️ **Frontend Focus:** Maining React to build smooth, modern, and high-performance web applications.
 🌍 **Tech Explorer:** Driven by a constant curiosity to learn every corner of computer science and see where technology (and code) can take me.
 🎓 **CS Student:** Balancing my Computer Engineering degree in Barcelona with hackathons, side projects, and constant learning.
