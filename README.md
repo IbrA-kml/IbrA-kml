@@ -7,10 +7,11 @@ I am a video game lover who enjoys exploring every corner of the computer scienc
 
 ## About me
 
-✨ Creating bugs and solving them since I discovered the world of code.
-📚 Currently mastering Next.js, advanced frontend architectures, and home server setups.
-🎯 Goals: Build scalable, high-impact applications and optimize private automation networks.
-🎲 Fun fact: If it has code, an antenna, or an Intel chip, I will probably try to disassemble it or flash a new firmware.
+## About me
+
+⚛️ **Frontend Focus:** Maining React to build smooth, modern, and high-performance web applications.
+🌍 **Tech Explorer:** Driven by a constant curiosity to learn every corner of computer science and see where technology (and code) can take me.
+🎓 **CS Student:** Balancing my Computer Engineering degree in Barcelona with hackathons, side projects, and constant learning.
 
 ---
 
