@@ -3,8 +3,6 @@
 Hi there! I'm IbrA, a **Computer Engineering student based in Barcelona** 🎓  
 I am a video game lover who enjoys exploring every corner of the computer science world, from web development to network trasteos and hardware hacking.
 
-*Building things that actually work — from web interfaces to robotics and smart home applications.*
-
 ---
 
 ## About me
