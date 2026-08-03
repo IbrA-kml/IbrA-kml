@@ -1,7 +1,8 @@
 # 💻 IbrA-kml
 
 Hi there! I'm IbrA, a **Computer Engineering student based in Barcelona** 🎓  
-I am a video game lover who enjoys exploring every corner of the computer science world, from web development to network trasteos and hardware hacking.
+
+I’m a curious guy who loves discovering new things. I love technology and tinkering with cool stuff.
 
 ---
 
