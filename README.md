@@ -1,6 +1,6 @@
 # 💻 IbrA-kml
 
-Hi there! I'm IbrA, a **Computer Engineering student based in Barcelona** 🎓  
+Hi there! I'm IbrA, a **Computer Engineering student based in Barcelona** 🎓
 
 I’m a curious guy who loves discovering new things. I love technology and tinkering with cool stuff.
 
@@ -8,11 +8,11 @@ I’m a curious guy who loves discovering new things. I love technology and tink
 
 ## About me
 
-⚛️ **Frontend Focus:** Maining React to build smooth, modern, and high-performance web applications.
+ **Frontend Focus:** Maining React to build smooth, modern, and high-performance web applications.
 
-🌍 **Tech Explorer:** Driven by a constant curiosity to learn every corner of computer science and see where technology (and code) can take me.
+ **Tech Explorer:** Driven by a constant curiosity to learn every corner of computer science and see where technology (and code) can take me.
 
-🎓 **CS Student:** Balancing my Computer Engineering degree in Barcelona with hackathons, side projects, and constant learning.
+ **CS Student:** Balancing my Computer Engineering degree in Barcelona with hackathons, side projects, and constant learning.
 
 ---
 
