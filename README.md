@@ -1,6 +1,6 @@
 # 💻 IbrA-kml
 
-Hi there! I'm IbrA, a **Computer Engineering student based in Barcelona** ;)
+I'm IbrA, a **Computer Engineering student based in Barcelona** ;)
 
 I’m a curious guy who loves discovering new things. I love technology and tinkering with cool stuff.
 
